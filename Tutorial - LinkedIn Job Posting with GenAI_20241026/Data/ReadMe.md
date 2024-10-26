@@ -1,7 +1,7 @@
 # Data Source
 [LinkedIn Job Postings (2023 - 2024)](https://www.kaggle.com/datasets/arshkon/linkedin-job-postings)
 
-## File(s) used in this project
+## File(s) Used in This Project
   'archive' > 'postings.csv'
 
 ## Note
