@@ -9,8 +9,10 @@ This is a hands-on project (using Python) for the lecture "**GenAI with Retrieva
 
 ## Preface
 **Goal**: Find your dream job 
-**Context**: Job Search Preparation based on the job market trends
-**Strategy**
+
+**Context**: Job Search Preparation based on the job market trends  
+
+**Strategy**  
 - Build an AI Career Consultant who helps job seekers to make strategic plans according to the current job trend
 - This AI Career Consultant can:
   1. recommend suitable trending jobs based on your current experiences. E.g., education, abilities, projects, jobs, etc.
