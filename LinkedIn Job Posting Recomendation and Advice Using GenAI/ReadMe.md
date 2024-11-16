@@ -34,7 +34,7 @@ What you need to do before running the codes:
     - Once you have the keys, remember to add them as "Environment Variables"
 
 <p align="center">
-  <img src="https://github.com/DreamBird-Jane/GenAI-Application/blob/main/LinkedIn%20Job%20Posting%20Recomendation%20and%20Advice%20Using%20GenAI/illustration/Keys.png" alt="Keys">
+  <img src="https://github.com/DreamBird-Jane/GenAI-Application/blob/main/LinkedIn%20Job%20Posting%20Recomendation%20and%20Advice%20Using%20GenAI/illustration/Keys.png" alt="Keys" width="50%">
 </p>
      
     
