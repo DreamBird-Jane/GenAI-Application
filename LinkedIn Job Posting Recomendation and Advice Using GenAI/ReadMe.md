@@ -7,6 +7,11 @@ This is a hands-on project (using Python) for the lecture "**GenAI with Retrieva
   2. You can also get the codes from here [Github](https://github.com/DreamBird-Jane/GenAI-Application/blob/main/LinkedIn%20Job%20Posting%20Recomendation%20and%20Advice%20Using%20GenAI/Build_VectorDB_Retrieval_and_Generation_(Gemini).ipynb) (using Gemini model for demonstration)
      > Note: You can run the Gemini model for free in [Colab](https://colab.research.google.com/) , whereas GPT model need pay-as-you-go.
 
+<p align="center">
+  <img src="https://github.com/DreamBird-Jane/GenAI-Application/blob/main/LinkedIn%20Job%20Posting%20Recomendation%20and%20Advice%20Using%20GenAI/illustration/Title.jpg" alt="Project-title">
+</p>
+
+
 ## Preface
 **Goal**: Find your dream job 
 
