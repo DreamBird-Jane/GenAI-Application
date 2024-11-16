@@ -32,8 +32,8 @@ What you need to do before running the codes:
     1. Gemini API: to call generation model
 
 - Note:
-    - keys are sensitive information, do not expose them other than yourself.  
-    - Once you have the keys, remember to add them as "Environment Variables"
+    - keys are sensitive information, do not expose them to anyone other than yourself.  
+    - Once you have the keys, remember to add them as "Environment Variables" (in Colab environment)
 
 <p align="center">
   <img src="https://github.com/DreamBird-Jane/GenAI-Application/blob/main/LinkedIn%20Job%20Posting%20Recomendation%20and%20Advice%20Using%20GenAI/illustration/Keys.png" alt="Keys" width="50%">
