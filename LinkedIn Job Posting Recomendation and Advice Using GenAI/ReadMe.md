@@ -24,11 +24,18 @@ This is a hands-on project (using Python) for the lecture "**GenAI with Retrieva
 ## Prerequisites
 What you need to do before running the codes:
 
-1. Application for API Keys: to build our AI assistant, we kneed to apply for keys from following service providers
-    1. GPT API: to call generation model
-    > Note: keys are sensitive information, do not expose them other than yourself.  
-    - One you have the key, remember to add it through "Environment" > "(x) Environment Variables"
+1. Application for API Keys: to build our AI assistant, we kneed to apply for keys from the following service providers
+    1. Kaggle API: to download data
+    1. Hugging Face API: to call embedding model
+    1. Gemini API: to call generation model
 
+- Note:
+    - keys are sensitive information, do not expose them other than yourself.  
+    - Once you have the keys, remember to add them as "Environment Variables"
+
+<p align="center">
+  <img src="https://github.com/DreamBird-Jane/GenAI-Application/blob/main/LinkedIn%20Job%20Posting%20Recomendation%20and%20Advice%20Using%20GenAI/illustration/Keys.png" alt="Keys">
+</p>
      
     
 1. Self Description: to provide your brief autobiography for your consultant’s reference
