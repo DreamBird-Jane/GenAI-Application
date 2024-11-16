@@ -4,7 +4,7 @@ This is a hands-on project (using Python) for the lecture "**GenAI with Retrieva
 - You can get the slides from [GenAI with Retrieval-Augmented Generation (RAG) Framework](https://github.com/DreamBird-Jane/GenAI-Application/blob/main/LinkedIn%20Job%20Posting%20Recomendation%20and%20Advice%20Using%20GenAI/RAG%20Framework_20241111.pdf)
 - Where to get the codes:
   1. Apart from [DataLab](https://www.datacamp.com/datalab/w/49e3b17b-2c12-4993-a0aa-5e8709e7092f/edit) (using GPT model for demonstration)
-  2. You can also get the codes from here [Github](https://github.com/DreamBird-Jane/GenAI-Application/tree/main/LinkedIn%20Job%20Posting%20Recomendation%20and%20Advice%20Using%20GenAI) (using Gemini model for demonstration)
+  2. You can also get the codes from here [Github](https://github.com/DreamBird-Jane/GenAI-Application/blob/main/LinkedIn%20Job%20Posting%20Recomendation%20and%20Advice%20Using%20GenAI/Build_VectorDB_Retrieval_and_Generation_(Gemini).ipynb) (using Gemini model for demonstration)
      > Note: You can run the Gemini model for free in [Colab](https://colab.research.google.com/) , whereas GPT model need pay-as-you-go.
 
 ## Preface
