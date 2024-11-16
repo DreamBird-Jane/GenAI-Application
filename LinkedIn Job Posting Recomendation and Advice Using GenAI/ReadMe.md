@@ -1,7 +1,7 @@
 # LinkedIn Job Posting Recomendation and Advice Using GenAI
 
 This is a hands-on project (using Python) for the lecture "**GenAI with Retrieval-Augmented Generation (RAG) Framework**." 
-- You can get the slides from [GenAI withRetrieval-Augmented Generation (RAG)Framework](https://github.com/DreamBird-Jane/GenAI-Application/blob/main/LinkedIn%20Job%20Posting%20Recomendation%20and%20Advice%20Using%20GenAI/RAG%20Framework_20241111.pdf)
+- You can get the slides from [GenAI withRetrieval-Augmented Generation (RAG) Framework](https://github.com/DreamBird-Jane/GenAI-Application/blob/main/LinkedIn%20Job%20Posting%20Recomendation%20and%20Advice%20Using%20GenAI/RAG%20Framework_20241111.pdf)
 - Where to get the codes:
   1. Apart from [DataLab](https://www.datacamp.com/datalab/w/49e3b17b-2c12-4993-a0aa-5e8709e7092f/edit) (using GPT model for demonstration)
   2. You can also get the codes from here [Github](https://github.com/DreamBird-Jane/GenAI-Application/tree/main/LinkedIn%20Job%20Posting%20Recomendation%20and%20Advice%20Using%20GenAI) (using Gemini model for demonstration)
@@ -13,13 +13,12 @@ This is a hands-on project (using Python) for the lecture "**GenAI with Retrieva
 **Strategy**
 - Build an AI Career Consultant who helps job seekers to make strategic plans according to the current job trend
 - This AI Career Consultant can:
-  1. recommend the suitable trending jobs based on your current experiences E.g., education, abilities, projects, jobs, etc.
+  1. recommend suitable trending jobs based on your current experiences. E.g., education, abilities, projects, jobs, etc.
   2. provide further advice according to the job recommendation and your experiences
 
 <p align="center">
-  <img src="[DemoPics/Project-Build%20AI%20Career%20Consultant.jpg](https://github.com/DreamBird-Jane/GenAI-Application/blob/main/LinkedIn%20Job%20Posting%20Recomendation%20and%20Advice%20Using%20GenAI/illustration/Project-Build%20AI%20Career%20Consultant.jpg)" alt="Project-Build AI Career Consultant">
+  <img src="https://github.com/DreamBird-Jane/GenAI-Application/blob/main/LinkedIn%20Job%20Posting%20Recomendation%20and%20Advice%20Using%20GenAI/illustration/Project-Build%20AI%20Career%20Consultant.jpg" alt="Project-Build AI Career Consultant">
 </p>
-
 
 
 ## Prerequisites
